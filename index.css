@@ -1,0 +1,31 @@
+.quadro {
+    
+    border: 1px solid #ccc; 
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 15px 15px 70px rgba(112, 18, 18, 0.747)
+    
+}
+.info_Aluno {
+    padding-block: 30px;
+    background-color: #66666604
+}
+
+body{
+    background-color: black;
+    color: white;
+    margin: 15px;
+
+}
+
+.figura{
+    justify-content: center;
+    display: flex;
+    margin: 2%;
+    padding-inline-start: 20px;
+    align-items: center;
+}
+button{
+    display: flex;
+    justify-content: right;
+}
